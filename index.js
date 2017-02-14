@@ -1,4 +1,4 @@
-
+//require modules such as the Facebook chat api
 var login = require("facebook-chat-api");
 var sys = require('sys')
 var exec = require('child_process').exec;
